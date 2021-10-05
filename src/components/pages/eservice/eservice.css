@@ -1,0 +1,50 @@
+.e-service {
+  height: 1100px;
+}
+.e-service img {
+  width: 100%;
+}
+.titre-service {
+  width: 100%;
+  height: 100px;
+  background-color: #730a16;
+  position: absolute;
+  top: 600px;
+}
+.title-service {
+  font-size: 300%;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: Apple Chancery, cursive;
+  position: relative;
+  top: 50px;
+  left: 75%;
+  color: #730a16;
+}
+.home-logo-service {
+  position: relative;
+  top: 90px;
+  left: 15px;
+  font-size: 120%;
+}
+.container-eservice {
+  position: absolute;
+  top: 200px;
+}
+.container-form {
+  position: absolute;
+  top: 980px;
+  height: 1000px;
+}
+.reclamation-form {
+  position: relative;
+  top: 700px;
+  columns: 2;
+}
+.demande-visite {
+  position: relative;
+  top: 700px;
+}
+.demande-visite form {
+  columns: 2;
+}

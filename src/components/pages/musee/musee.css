@@ -1,0 +1,39 @@
+.titre-Musée {
+  margin-top: 20px;
+  align-items: center;
+  position: absolute;
+  top: 350px;
+  width: 100%;
+}
+.titre-Musée h2 {
+  padding-top: 3px;
+  align-items: center;
+  font-size: 210%;
+  color: aliceblue;
+  -webkit-text-stroke: 2px #000000;
+  align-items: center;
+  background-color: #0d537d;
+  padding-left: 7%;
+  padding-top: 2%;
+  height: 120px;
+}
+
+.title-Musée {
+  font-size: 300%;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: Apple Chancery, cursive;
+  position: relative;
+  left: 80%;
+  color: #0d537d;
+}
+.home-logo-Musée {
+  position: relative;
+  top: 250px;
+  left: 150px;
+  font-size: 200%;
+}
+.apreçuMusée {
+  position: relative;
+  top: 100px;
+}

@@ -1,0 +1,71 @@
+.titre-DAI {
+  margin-top: 20px;
+  align-items: center;
+  position: absolute;
+  top: 350px;
+  width: 100%;
+}
+.SectionTitre-DAI {
+  position: absolute;
+  top: 370px;
+  width: 100%;
+}
+.SectionTitre-DAI h2 {
+  align-items: center;
+  font-size: 210%;
+  color: aliceblue;
+  -webkit-text-stroke: 2px #000000;
+  align-items: center;
+  background-color: #966173;
+  padding-left: 7%;
+  padding-top: 4%;
+  height: 120px;
+}
+.Title-DAI {
+  font-size: 300%;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: Apple Chancery, cursive;
+  position: relative;
+  left: 80%;
+  color: #966173;
+}
+.home-logo {
+  position: relative;
+  top: 70px;
+  left: 15px;
+  font-size: 120%;
+}
+.DAI-information {
+  position: relative;
+  top: 350px;
+  left: 5%;
+}
+.DAI-information h3 {
+  font-size: 200%;
+  color: #363c48;
+}
+.politique h4 {
+  font-size: 150%;
+  color: #363c48;
+}
+.DAI-information h3 {
+  padding-bottom: 20px;
+}
+.DAI-information h4 {
+  padding-bottom: 10px;
+}
+.DAI-information h5 {
+  font-size: 110%;
+}
+
+.list-Lien {
+  list-style-type: circle;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+}
+.list-Lien a {
+  text-decoration: none;
+  color: #135276;
+}

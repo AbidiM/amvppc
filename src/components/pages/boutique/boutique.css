@@ -1,0 +1,95 @@
+.titre-boutique {
+  margin-top: 20px;
+  align-items: center;
+  position: absolute;
+  top: 100px;
+  width: 100%;
+}
+.SectionTitre-boutique {
+  position: absolute;
+  top: 370px;
+  width: 100%;
+}
+.SectionTitre-boutique h2 {
+  align-items: center;
+  font-size: 210%;
+  color: aliceblue;
+  -webkit-text-stroke: 2px #000000;
+  align-items: center;
+  background-color: #f5bd3c;
+  padding-left: 7%;
+  height: 120px;
+}
+.Title-boutique {
+  font-size: 2 00%;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: Apple Chancery, cursive;
+  position: relative;
+  left: 80%;
+  color: #f5bd3c;
+}
+.home-logo {
+  position: relative;
+  top: 70px;
+  left: 15px;
+  font-size: 120%;
+}
+.boutique-menubar {
+  background: #dddee0;
+  height: 70px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-size: 1.2rem;
+  top: 300px;
+  z-index: 999;
+  position: relative;
+  grid-area: overlap;
+  width: 100%;
+}
+.boutique-menubar li {
+  display: inline-block;
+  padding: 10px 10px 10px;
+}
+.tri {
+  position: relative;
+  top: 0px;
+  left: 35%;
+  height: 1 cm;
+}
+.tri h6 {
+  position: relative;
+  top: 30px;
+  font-size: 100%;
+}
+.trier_par {
+  list-style: none;
+  position: relative;
+  left: 70px;
+}
+.trier_par li {
+  display: inline-block;
+  padding: 10px;
+}
+.num_page {
+  position: relative;
+  left: 40%;
+}
+.catalogue {
+  position: relative;
+  top: 350px;
+}
+.num_page li {
+  display: inline-block;
+  padding: 7px;
+}
+.listProduct {
+  columns: 2;
+  padding-left: 10px;
+  text-align: center;
+}
+.product {
+  padding: 10px;
+  list-style: none;
+}

@@ -1,0 +1,35 @@
+.titre-Monument {
+  margin-top: 20px;
+  align-items: center;
+  position: absolute;
+  top: 380px;
+  width: 100%;
+}
+.titre-Monument h2 {
+  padding-top: 3px;
+  align-items: center;
+  font-size: 210%;
+  color: #730a16;
+  -webkit-text-stroke: 0.5px bisque;
+  align-items: center;
+  background-color: #e3c6a5;
+  padding-left: 7%;
+  padding-top: 2%;
+  height: 120px;
+}
+
+.title-Monument {
+  font-size: 300%;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: Apple Chancery, cursive;
+  position: relative;
+  left: 80%;
+  color: #e3c6a5;
+}
+.home-logo-Monument {
+  position: relative;
+  top: 250px;
+  left: 150px;
+  font-size: 150%;
+}

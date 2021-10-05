@@ -1,0 +1,154 @@
+.titre-actu {
+  margin-top: 20px;
+  align-items: center;
+  position: absolute;
+  top: 350px;
+  width: 100%;
+}
+.titre-actu h2 {
+  padding-top: 3px;
+  align-items: center;
+  font-size: 210%;
+  color: aliceblue;
+  -webkit-text-stroke: 2px #000000;
+  align-items: center;
+  background-color: #f5bd3c;
+  padding-left: 7%;
+  padding-top: 3%;
+  height: 120px;
+}
+.title-actu {
+  font-size: 240%;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: Apple Chancery, cursive;
+  position: relative;
+  left: 80%;
+  color: #f5bd3c;
+}
+.home-logo a {
+  position: relative;
+  top: 200px;
+  left: 6%;
+  font-size: 120%;
+}
+.pages-container {
+  width: 100%;
+  height: 30px;
+  background-color: #f7f7f7;
+  position: relative;
+  top: 330px;
+  padding-left: 60px;
+}
+
+.pages-container li {
+  display: inline-block;
+  padding: 2px 20px 2px;
+}
+.actualites {
+  position: relative;
+  top: 100px;
+  padding-bottom: 50px;
+}
+.container_actu {
+  position: relative;
+  top: 250px;
+  left: 200px;
+  padding-bottom: 15px;
+}
+.container_actu img {
+  width: 250px;
+  height: 230px;
+}
+.nom-actu {
+  position: absolute;
+  top: 0px;
+  left: 270px;
+  width: 700px;
+}
+.nom-actu a {
+  color: #000000;
+  font-size: 90%;
+}
+
+.date-actu {
+  position: absolute;
+  top: 50px;
+  left: 270px;
+  color: #0000;
+}
+
+.label-actu {
+  position: absolute;
+  top: 50px;
+  left: 400px;
+  color: #0000;
+}
+
+.actu-description {
+  position: absolute;
+  top: 100px;
+  left: 270px;
+  margin-right: 250px;
+  width: 600px;
+}
+.actu-description a {
+  color: #000000;
+}
+.suite {
+  display: inline-flex;
+  font-size: 100%;
+  padding: 8px 5px 8px;
+  border-radius: 100px;
+  text-decoration: none;
+  position: absolute;
+  left: 70%;
+  top: 190px;
+  border-radius: 6px;
+  background-color: black;
+  width: 95px;
+}
+.suite a {
+  text-decoration: none;
+  color: antiquewhite;
+}
+.article-actu {
+  position: relative;
+  top: 300px;
+  left: 100px;
+}
+.date-artical {
+  position: relative;
+  top: 10px;
+}
+.label-artical {
+  position: relative;
+  top: 10px;
+}
+.contenu-article {
+  position: relative;
+  top: 20px;
+  padding-top: 30px;
+  border-top: 2px solid rgb(17, 16, 15);
+}
+.texte-article {
+  width: 800px;
+}
+.contenu-article img {
+  width: 320px;
+  position: absolute;
+  top: 10px;
+  left: 60%;
+  height: 250px;
+}
+.lien-telechargement {
+  padding-top: 40px;
+}
+.la-liste-des-jours {
+  padding-top: 20px;
+  padding-left: 30px;
+}
+.la-liste-des-jours li {
+  list-style-type: circle;
+  padding-bottom: 10px;
+}

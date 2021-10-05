@@ -1,0 +1,98 @@
+.manifestation img {
+  height: 500px;
+}
+.manifestation img {
+  height: 500px;
+  width: 100%;
+}
+
+.titre-manifestation {
+  margin-top: 20px;
+  align-items: center;
+  position: absolute;
+  top: 370px;
+  width: 100%;
+}
+.titre-manifestation h2 {
+  padding-top: 3px;
+  align-items: center;
+  font-size: 210%;
+  color: aliceblue;
+  -webkit-text-stroke: 2px #000000;
+  align-items: center;
+  background-color: #730a16;
+  padding-left: 7%;
+  padding-top: 2%;
+  height: 120px;
+}
+.home-logo a {
+  position: relative;
+  top: 200px;
+  left: 6%;
+  font-size: 120%;
+}
+.title-manifestation {
+  font-size: 300%;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: Apple Chancery, cursive;
+  position: relative;
+  left: 70%;
+  color: #730a16;
+}
+.home-logo-manifestation {
+  position: relative;
+  top: 170px;
+  left: 150px;
+  font-size: 200%;
+}
+.container_manifestation {
+  position: relative;
+  top: 250px;
+  left: 200px;
+}
+.container_manifestation img {
+  width: 250px;
+  height: 230px;
+}
+.nom-manifestation {
+  position: absolute;
+  top: 0px;
+  left: 270px;
+}
+.date-manifestation {
+  position: absolute;
+  top: 50px;
+  left: 270px;
+}
+.label {
+  position: absolute;
+  top: 50px;
+  left: 400px;
+}
+.manifestation-description {
+  position: absolute;
+  top: 80px;
+  left: 270px;
+  margin-right: 250px;
+}
+.suite {
+  display: inline-flex;
+  margin-left: 20px;
+  font-size: 120%;
+  padding: 8px 15px 8px;
+  border-radius: 100px;
+  text-decoration: none;
+  margin: 0 15px;
+  position: absolute;
+  left: 20%;
+  top: 160px;
+  border-radius: 6px;
+  color: antiquewhite;
+  background-color: black;
+}
+.article {
+  position: relative;
+  top: 300px;
+  left: 100px;
+}
